@@ -1,0 +1,30 @@
+6/28/17 First session notes:
+
+Computers:
+HARDWARE (things you can see/touch, etc.)
+- CPU: Central Processing Unit ("brain"). A computer can have many CPUs. 
+- RAM: Random Access Memory ("scratch paper")
+- Hard Disk ("notebook")
+- USB: small version of a hard disk
+
+SOFTWARE (things you can't see/touch, such as programs, etc.)
+- Programs: examples-Word, Windows, etc.
+- Given software does one thing, specific to that program
+- Operating System: special kind of software, starts computer, interface between hardware/software and user. (Example: Windows 10)
+- Program: series of actions/intructions/commands, sometimes with more data and sometimes without.
+
+Number Systems:
+BASE 10
+- Our decimals, the system we usually use.
+
+BINARY SYSTEM
+- 1s and 0s
+
+example: 
+11011 (binary)
+(1*2^4)+(1*2^3)+(0*2^2)+(1*2^1)+(1*2^0)= 16+8+0+2+1= 27 (base 10)
+
+*11011 in binary and 27 in Base 10 are the same number expressed in different languages*
+
+ASCII
+- American Standard Code for Information Interchange --> system to make sure when an action is performed (pressing A for example), the same outcome occurs every time even when performed on different computers. 
