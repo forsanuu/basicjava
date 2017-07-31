@@ -1,0 +1,33 @@
+- data type, variable, assignment, constant
+- data types: int (integer), string (string of letters), double (decimal)
+- variable: can change, assignment: =, <, >, <=, >=, constant: does not change
+example: int x = 2
+	 string name = sanya
+	 double y = 2.5
+
+- syntax: grammar/punctuation 
+example: //, ;, ( ), etc.
+
+- differences between = and ==
+	= assignment
+	== comparison/question
+example: age == 15 --> is the age 15? (answered w true/false)
+	 age = 15 --> the age is 15.
+
+- conditions: 
+if(age == 15) {
+	_____________;
+}
+else
+___________
+
+- for loop:
+for (initialization ; condition ; increment) {
+	sys
+}
+
+example: to print "helloworld" 10 times you do this:
+
+for (x=0 ; x<10 ; x = x+1) {
+	system.out.println("helloworld");
+}
