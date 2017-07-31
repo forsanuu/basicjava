@@ -1,1 +1,6 @@
-third session 
+third session notes
+
+git status = shows the status of any additions/modifications
+git add * = adds the files to local repository
+git commit -m "comment" = commits to local repository
+git push origin master = file is in github account
